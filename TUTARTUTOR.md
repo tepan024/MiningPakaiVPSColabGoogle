@@ -1,6 +1,8 @@
 # Mining Pakai VPS Colab Google
 Minimal punya modal email ya tempek, ngemas ngemis mulu codingan orang, belajar kek, goblok banget kontol.
 
+COLAB DI SAVE A COPY IN DRIVE, SIMPEN PRIBADI, KALAU PAKAI PUBLIC, RUNTIME KEGANTI TERUS TAR NANGIS.
+
 1. Login akun google kalian
 2. entry cepat menggunakan jalan ninja 
 
