@@ -5,7 +5,9 @@ Minimal punya modal email ya tempek, ngemas ngemis mulu codingan orang, belajar 
 2. entry cepat menggunakan jalan ninja 
 
 BAHAYA AKAN MEMORY CPU
+
 AWAS MELEDUG YA ANJING
+
 JANJI GA NANGIS ?
 
 Buka CMD
